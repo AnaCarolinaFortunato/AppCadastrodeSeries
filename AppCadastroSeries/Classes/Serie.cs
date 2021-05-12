@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace AppCadastroSeries.Classes
+namespace AppCadastroSeries
 {
     class Serie : EntidadeBase
     {
@@ -20,18 +20,36 @@ namespace AppCadastroSeries.Classes
         private string Titulo { get; set; }
         private string Descricao { get; set; }
         private int Ano { get; set; }
+
+
+
+        public override string ToString()
+        {
+            string retorno = "";
+            retorno += "Gênero: " + this.Genero + Environment.NewLine;
+            retorno += "Titulo: " + this.Titulo + Environment.NewLine;
+            retorno += "Descrição: " + this.Descricao + Environment.NewLine;
+            retorno += "Ano de Inicio: " + this.Ano;
+
+            return retorno;
+        }
+
+        public string retornaTitulo()
+        {
+            return this.Titulo;
+        }
+
+        internal int retornaId()
+        {
+            return this.Id;
+        }
+
+
+
+
+
     }
 
-    public override string ToString()
-    {
-        string retorno = "";
-        retorno += "Gênero: " + this.Genero + Environment.NewLine;
-        retorno += "Titulo: " + this.Titulo + Environment.NewLine;
-        retorno += "Descrição: " + this.Descricao + Environment.NewLine;
-        retorno += "Ano de Inicio: " + this.Ano;
-
-        return retorno;
-    }
 
 
 }
