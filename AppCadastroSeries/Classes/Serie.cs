@@ -1,4 +1,4 @@
-﻿using AppCadastroSeries.Enum;
+﻿
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -30,8 +30,8 @@ namespace AppCadastroSeries
             retorno += "Gênero: " + this.Genero + Environment.NewLine;
             retorno += "Titulo: " + this.Titulo + Environment.NewLine;
             retorno += "Descrição: " + this.Descricao + Environment.NewLine;
-            retorno += "Ano de Inicio: " + this.Ano;
-
+            retorno += "Ano de Inicio: " + this.Ano + Environment.NewLine;
+            retorno +=  "Excluido:" + this.Excluido;
             return retorno;
         }
 
@@ -40,11 +40,15 @@ namespace AppCadastroSeries
             return this.Titulo;
         }
 
-        internal int retornaId()
+        public int retornaId()
         {
             return this.Id;
         }
 
+        public bool retornaExcluido()
+        {
+            return this.Excluido;
+        }
 
         public void Excluir()
         {

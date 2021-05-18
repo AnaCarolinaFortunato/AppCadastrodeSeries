@@ -1,0 +1,13 @@
+C:\Users\anaca\source\repos\AppCadastroSeries\AppCadastroSeries\obj\Debug\netcoreapp3.1\AppCadastroSeries.csprojAssemblyReference.cache
+C:\Users\anaca\source\repos\AppCadastroSeries\AppCadastroSeries\obj\Debug\netcoreapp3.1\AppCadastroSeries.AssemblyInfoInputs.cache
+C:\Users\anaca\source\repos\AppCadastroSeries\AppCadastroSeries\obj\Debug\netcoreapp3.1\AppCadastroSeries.AssemblyInfo.cs
+C:\Users\anaca\source\repos\AppCadastroSeries\AppCadastroSeries\obj\Debug\netcoreapp3.1\AppCadastroSeries.csproj.CoreCompileInputs.cache
+C:\Users\anaca\source\repos\AppCadastroSeries\AppCadastroSeries\bin\Debug\netcoreapp3.1\AppCadastroSeries.exe
+C:\Users\anaca\source\repos\AppCadastroSeries\AppCadastroSeries\bin\Debug\netcoreapp3.1\AppCadastroSeries.deps.json
+C:\Users\anaca\source\repos\AppCadastroSeries\AppCadastroSeries\bin\Debug\netcoreapp3.1\AppCadastroSeries.runtimeconfig.json
+C:\Users\anaca\source\repos\AppCadastroSeries\AppCadastroSeries\bin\Debug\netcoreapp3.1\AppCadastroSeries.runtimeconfig.dev.json
+C:\Users\anaca\source\repos\AppCadastroSeries\AppCadastroSeries\bin\Debug\netcoreapp3.1\AppCadastroSeries.dll
+C:\Users\anaca\source\repos\AppCadastroSeries\AppCadastroSeries\bin\Debug\netcoreapp3.1\AppCadastroSeries.pdb
+C:\Users\anaca\source\repos\AppCadastroSeries\AppCadastroSeries\obj\Debug\netcoreapp3.1\AppCadastroSeries.dll
+C:\Users\anaca\source\repos\AppCadastroSeries\AppCadastroSeries\obj\Debug\netcoreapp3.1\AppCadastroSeries.pdb
+C:\Users\anaca\source\repos\AppCadastroSeries\AppCadastroSeries\obj\Debug\netcoreapp3.1\AppCadastroSeries.genruntimeconfig.cache
